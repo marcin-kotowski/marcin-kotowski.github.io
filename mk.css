@@ -1,0 +1,88 @@
+#wrapper{
+	width:800px; margin:0 auto;  line-height: 150%;
+}
+
+#topmenu{
+	width:100%;
+	height:30px;
+	padding-bottom: 40px;
+	/*background-color:#969;*/
+}
+
+/*#topmenu ul
+{margin:0px; padding:0px;}
+#topmenu ul li
+{display:inline; height:30px; float:left; list-style:none; margin-left:15px}
+*/
+
+#naglowek{
+	text-align: center;
+	font-size:24px;
+}
+
+/*#topmenu*/  a
+{color:#088A85; text-decoration:none; 	font-weight:bold;}
+
+/*#topmenu*/  a:hover
+{color:#61210B; text-decoration:none; 	font-weight:bold;}
+
+.thumbnail{
+	width:100 px;
+	height:100 px;
+	border:1px solid #021a40;
+	float:left;
+	margin:0 15px 0 0;
+}
+
+#fotka{
+	border:1px solid #021a40;
+	float:left;
+	margin:0 15px 0 0;
+}
+
+
+#chunks{
+	width=900 px;
+	background: #84FF83;
+}
+
+img.pic{
+	border:1px solid #021a40;
+	float:right;
+	margin:0 15px 0 0;
+}
+
+#topmenu ul {
+	border:1px solid #ccc;
+	border-width:1px 0;
+	text-align:center;
+		/*background: #848383;
+	border:solid 1px #606060;*/
+	/*padding: 0 75px;/*
+	/*width: 45px;*/
+	/*margin:20px;*/
+	font-size:14px;
+}
+ 
+#topmenu ul li  {
+	/*background:#989898;*/
+	/*color:#3a3a3a;*/
+	/*border:solid 1px #606060;	*/
+	/*border-bottom:0;*/	
+	display: inline-block;
+	margin: 5px 1px 5px;
+	padding: 8px 20px;
+}
+
+.article-title {
+        font-weight:bold;
+}
+
+.article-authors {
+}
+
+.article-journal {
+        font-style:italic;
+}
+
+

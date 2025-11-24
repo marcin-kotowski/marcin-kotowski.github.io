@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link href="mk.css" type="text/css" rel="stylesheet" >
+		<title>Marcin Kotowski's homepage</title>
+	</head>
+
+	<body>
+		<div id="wrapper">
+			<div id="naglowek">Marcin Kotowski</div>
+			<div id="topmenu">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="research.html">Research</a></li>
+					 <li><a href="teaching.html">Teaching</a></li>
+					<li><a href="education.html">Education & Events</a></li>
+					<li><a href="personal.html">Personal</a></li>
+				</ul>
+			</div>
+			<p>
+			I'm interested in many non-academic things. If you're interested in something, like to discuss something etc., write me an email.
+			</p>
+
+
+<table  width="800">
+<colgroup>
+       <col span="1" style="width: 75%">
+       <col span="1" style="width: 25%">
+    </colgroup>
+	<tr>
+		<td>
+		                        <h4>Books and movies</h4>
+
+					<p>
+						My favorite fiction writers include Fiodor Dostoyevsky, Jorge Luis Borges, Stanisław Lem, Jacek Dukaj, Stanisław Ignacy Witkiewicz and others. In non-fiction, I'm interested in history (esp. US history), history of science, politics, philosophy and cognitive science etc. I sporadically write book reviews and put them on <a href="http://woodtickquarterly.wordpress.com/">Woodtick Quarterly</a>.
+					<p>
+						Some books and movies <a href="recomm.html">recommendations</a>.
+					</p>
+		</td>
+		<td>
+			<img class="pic" src="img/books-mini2.png"/>
+		</td>
+	</tr>
+	<tr>
+	<tr>
+		<td>
+		                        <h4>Physical improvisation</h4>
+
+					<p>
+					I enjoy physical improvisation. This includes <a href="https://en.wikipedia.org/wiki/Contact_improvisation">contact improvisation</a>, free improvisation (you can read more here: <a href="https://abandoneddepot.wordpress.com/2015/02/28/free-improv/">Free Improv</a>) and spontaneous dance (5 Rhythms, Singular Dance).
+					</p>
+		</td>
+	</tr>
+		<td>	
+			<h4>Mountains</h4>
+			I enjoy mountain hiking - there are nice photos from some places where I've been (Tatry, Alps, Pyrenees) on my brother Michał's <a href=https://plus.google.com/photos/101247835156478352134/albums">Picasa gallery</a>.
+		</td>
+		<td>	
+			<img class="pic" src="img/mountains-mini.png"/>
+		</td>
+	</tr>
+	<tr>
+		<td>	
+			<h4>Music</h4>
+			<!--<img id="pic" src="img/music-mini.png" />-->		
+			Some things I listen to:
+			<ul>
+				<li>blues, blues rock (John Mayall, Cream, Eric Clapton, Free, The Doors)</li>
+    				<li>rock, hard rock (Deep Purple, Led Zeppelin, Dire Straits, New Model Army, Mad Season)</li>
+    				<li>heavy metal (Black Sabbath, Iron Maiden, Metallica, Motorhead)</li>
+				<li>folk, folk rock (Bob Dylan, Bert Jansch, Pentangle)</li>
+				<li>prog rock (Pink Floyd, Van Der Graaf Generator, ELP, Jethro Tull)</li>
+				<li>jazz rock, fusion (Al Di Meola, Jeff Beck)</li>
+				<li>Tom Waits</li>
+				<li>Jacek Kaczmarski</li>
+				<li>Magma, The Mars Volta, Queen, Dire Straits, Joy Division, The Stranglers, The Smiths etc.</li>
+			</ul>
+		</td>
+		<td>	
+			<img class="pic" src="img/music-mini.png"/>
+		</td>
+	</tr>
+	<tr>
+		<td>	
+			<h4>Drawing</h4>
+			<p>
+				Some time ago I picked up pencil drawing (mostly portraits). You can find some of my work at <a href="http://neworder4.deviantart.com">Deviant Art</a>.	
+		</td>
+		<td>	
+			<img class="pic" src="img/curtis-mini.png"/>
+		</td>
+	</tr>
+	<tr>
+		<td>	
+				<h4>Friends </h4>
+					Some friends' webpages:
+					<ul>
+						<li><a href="http://math.berkeley.edu/~achinger">Piotr Achinger</a> (Berkeley, algebraic geometry) </li>
+						<li><a href="http://www.fuw.edu.pl/~kostecki">Ryszard Kostecki</a> (Perimeter Institute, quantum foundations)</li>
+						<li><a href="http://pwmarcz.pl">Paweł Marczewski</a> (Codility, software engineer)</li>
+						<li><a href="http://migdal.wikidot.com">Piotr Migdał</a> (quantum information, data science)</li>
+					</ul>		
+		</td>
+		<td>	
+			<img class="pic" src="img/friends-mini.png"/>
+		</td>
+	</tr>
+	<tr>
+		<td>	
+			<h4>Games</h4>
+			I play Japanese mahjong (Riichi) a lot. The best way to get into it is watching <a href="http://en.wikipedia.org/wiki/Akagi_%28manga%29">Akagi</a>, a dark and intense anime about mahjong. Another great anime about bizarre high stakes gambling is <a href="http://en.wikipedia.org/wiki/Kaiji_%28manga%29">Kaiji</a>. Mahjong games can get <a href="http://www.youtube.com/watch?v=neFgMfwqN-c">very intense</a>.
+			<p>
+			I also enjoy bridge and board games (Power Grid, Smallworld, Puerto Rico and the like). I have a soft spot for <a href="http://boardgamegeek.com/boardgame/131357/coup">Coup</a> - a card game of strategy and bluffing. I co-write a blog about Coup, <a href="http://thecoupden.wordpress.com/">The Coup Den</a> (under construction). 
+		</td>
+		<td>	
+			<img class="pic" src="img/games-mini.png"/>
+		</td>
+	</tr>
+	<tr>
+		<td>	
+			<h4>Dreams</h4>
+			<p>
+				I love talking about dreams and sharing them. I've been writing a dream journal for several years, you can get a "free trial version" :). Check out <a href="http://en.wikipedia.org/wiki/Waking_life">Waking Life</a>, a movie about lucid dreaming (and lots of other stuff, too). 
+			</p>
+		</td>
+		<td>	
+			<img class="pic" src="img/dreams-mini.png"/>
+		</td>
+	</tr>
+	<tr>
+		<td>	
+			<h4>Humor</h4>
+				I like absurd/surreal humor, you can find some of that stuff on the <a href="humor.html">humor</a> page (some only in Polish).
+		</td>
+		<td>	
+			<img class="pic" src="img/humor-mini.png"/>
+		</td>
+	</tr>
+</table>
+		</div>			
+	</body>
+</html>
